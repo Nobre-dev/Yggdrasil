@@ -3,6 +3,7 @@ Bem vindo ao projeto YggDrasil, um datapack que promete deixar o jogo mais diver
 
 ## Algumas coisa a se saber
 Este projeto é para a versão 1.21 da versão java
+Para poderes ter texturas de armadora personalizadas é necessário
 
 __Para devs__:
 - Será necessário ter uma IDE que tenha compatibilidade com a aplicação github desktop(recomendo VS code)
