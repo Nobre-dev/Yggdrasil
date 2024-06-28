@@ -5,6 +5,17 @@ Bem vindo ao projeto YggDrasil, um datapack que promete deixar o jogo mais diver
 Este projeto é para a versão 1.21 da versão java
 Para poderes ter texturas de armadora personalizadas é necessário
 
+
+## Como jogar este projeto
+
+- 1º- Baixe o zip do mundo
+
+- 2º- Vá na .minecraft e depois em mundos e extraia o zip
+
+- 3º- Abra o minecraft 1.21 e começe esta aventura :D
+
+
+
 __Para devs__:
 - Será necessário ter uma IDE que tenha compatibilidade com a aplicação github desktop(recomendo VS code)
 
