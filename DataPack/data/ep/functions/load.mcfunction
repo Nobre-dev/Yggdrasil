@@ -1,1 +1,2 @@
-say hello
+say datapack has been reloaded
+
