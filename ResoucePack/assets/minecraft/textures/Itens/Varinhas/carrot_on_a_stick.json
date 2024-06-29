@@ -5,7 +5,7 @@
     },
    
     "overrides": [
-     { "predicate": {"custom_model_data":123456}, "model": "item/staff_bastion.json"}
+     { "predicate": {"custom_model_data":1}, "model": "Varinhas/staff_bastion.json"}
    
     ]
    
