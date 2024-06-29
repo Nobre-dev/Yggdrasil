@@ -1,1 +1,0 @@
-execute if entity @a[nbt={SelectedItem:{id:"minecraft:stick",tag:{CustomModelData:1}}}] run execute as @a[nbt={SelectedItem:{id:"minecraft:stick",tag:{CustomModelData:1}}}] at @s run execute at @s facing entity @p eyes positioned ^ ^ ^4 run summon lightning_bolt ^ ^ ^0.5
